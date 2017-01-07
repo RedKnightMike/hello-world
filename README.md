@@ -1,2 +1,2 @@
 # hello-world
-finally started a GitHub account. taking the tutorial.
+finally made a GitHub account. taking the tutorial.
